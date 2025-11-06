@@ -13,8 +13,7 @@ This repository accompanies the paper:
 
 ## 📖 Overview
 
-Accurate **uncertainty quantification (UQ)** in large language models (LLMs) is essential for reliable and trustworthy deployment.  
-However, most existing UQ methods are evaluated under the restrictive assumption that every question has a **single correct answer** — that is, *zero aleatoric uncertainty*.
+Accurate **uncertainty quantification (UQ)** in large language models (LLMs) is essential for reliable and trustworthy deployment. However, most existing UQ methods are evaluated under the restrictive assumption that every question has a **single correct answer** — that is, *zero aleatoric uncertainty*.
 
 In this work, we show that:
 
