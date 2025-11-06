@@ -1,6 +1,6 @@
 # 🧠 The Illusion of Certainty: Uncertainty Quantification for LLMs Fails under Ambiguity
 
-[![Paper Status](https://img.shields.io/badge/arXiv-2502.01234-red.svg)](https://arxiv.org/abs/)
+[![Paper Status](https://img.shields.io/badge/arXiv-red.svg)](https://arxiv.org/abs/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![HuggingFace Datasets](https://img.shields.io/badge/Datasets-on%20🤗%20Hugging%20Face-yellow.svg)](https://hf.co/collections/ttomov/llm-uncertainty-under-ambiguity)
 
