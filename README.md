@@ -32,11 +32,10 @@ To rigorously evaluate this phenomenon, we introduce two new **ambiguous QA data
 
 | Dataset | Description |  Link |
 |:--------|:-------------|:------|
-| **MAQA\*** | Ambiguous QA with factual co-occurrence–based ground-truth distributions | [🤗 `ttomov/maqa_star`](https://huggingface.co/datasets/ttomov/maqa_star) |
-| **AmbigQA\*** | Extension of AmbigQA with estimated answer probabilities and verified entailment | [🤗 `ttomov/ambigqa_star`](https://huggingface.co/datasets/ttomov/ambigqa_star) |
+| **MAQA\*** | Extension of MAQA with factual co-occurrence–based ground-truth distributions | [🤗 `ttomov/maqa_star`](https://huggingface.co/datasets/ttomov/maqa_star) |
+| **AmbigQA\*** | Extension of AmbigQA with factual co-occurrence–based ground-truth distributions | [🤗 `ttomov/ambigqa_star`](https://huggingface.co/datasets/ttomov/ambigqa_star) |
 
-Both datasets provide **ground-truth distributions \(p^*(y|x)\)** estimated from factual **co-occurrence statistics** in large corpora (Wikipedia, RedPajama-V1, The Pile) and validated via entailment models.  
-They enable, for the first time, *quantitative* evaluation of epistemic vs. aleatoric uncertainty in LLMs.
+Both datasets provide **ground-truth distributions \(p^*(y|x)\)** estimated from factual **co-occurrence statistics** in large corpora (Wikipedia, RedPajama-V1, The Pile). They enable, for the first time, *quantitative* evaluation of epistemic vs. aleatoric uncertainty in LLMs.
 
 ---
 
