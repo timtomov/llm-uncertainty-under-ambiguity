@@ -1,6 +1,8 @@
 # 🧠 The Illusion of Certainty: Uncertainty Quantification for LLMs Fails under Ambiguity
 
-[![Paper Status](https://img.shields.io/badge/arXiv-red.svg)](https://arxiv.org/abs/)
+
+
+[![Paper Status](https://img.shields.io/badge/arXiv-2511.04418-b31b1b.svg)](https://arxiv.org/abs/2511.04418)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![HuggingFace Datasets](https://img.shields.io/badge/Datasets-on%20🤗%20Hugging%20Face-yellow.svg)](https://hf.co/collections/ttomov/llm-uncertainty-under-ambiguity)
 
@@ -49,6 +51,18 @@ Both datasets provide **ground-truth distributions \(p^*(y|x)\)** estimated from
 
 ## 📚 Citation
 
+
 If you use our datasets or results, please cite:
+
+```bibtex
+@misc{tomov2025illusioncertaintyuncertaintyquantification,
+  title         = {The Illusion of Certainty: Uncertainty Quantification for LLMs Fails under Ambiguity},
+  author        = {Tim Tomov and Dominik Fuchsgruber and Tom Wollschläger and Stephan Günnemann},
+  year          = {2025},
+  eprint        = {2511.04418},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  url           = {https://arxiv.org/abs/2511.04418}
+}
 
 
